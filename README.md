@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: amelie.33650@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i collet lego sets
+- ⚡ Fun fact: i collect lego sets
 
 <!---
 amelie-savary/amelie-savary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
